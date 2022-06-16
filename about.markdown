@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This solidity smart contract is based on a trustless protocol for a rock paper scissors game.
+This handles reentrancy attacks and other common vulnerabilities.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Check out the [Protocol page][protocol-page] for more info on how this protocol is designed to be trustless.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Check out the [Code page][code-page] for more info on how this protocol is implemented in Solidity.
 
-
-[jekyll-organization]: https://github.com/jekyll
+[protocol-page]: /2022/06/16/protocol.html
+[code-page]: /2022/06/16/code.html
